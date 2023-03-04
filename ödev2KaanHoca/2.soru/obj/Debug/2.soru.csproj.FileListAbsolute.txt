@@ -1,0 +1,8 @@
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\2.soru\bin\Debug\2.soru.exe.config
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\2.soru\bin\Debug\2.soru.exe
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\2.soru\bin\Debug\2.soru.pdb
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\2.soru\obj\Debug\2.soru.csproj.AssemblyReference.cache
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\2.soru\obj\Debug\2.soru.csproj.SuggestedBindingRedirects.cache
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\2.soru\obj\Debug\2.soru.csproj.CoreCompileInputs.cache
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\2.soru\obj\Debug\2.soru.exe
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\2.soru\obj\Debug\2.soru.pdb

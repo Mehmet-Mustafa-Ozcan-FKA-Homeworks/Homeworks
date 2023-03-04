@@ -1,0 +1,8 @@
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\ödev2KaanHoca\bin\Debug\ödev2KaanHoca.exe.config
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\ödev2KaanHoca\bin\Debug\ödev2KaanHoca.exe
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\ödev2KaanHoca\bin\Debug\ödev2KaanHoca.pdb
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\ödev2KaanHoca\obj\Debug\ödev2KaanHoca.csproj.AssemblyReference.cache
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\ödev2KaanHoca\obj\Debug\ödev2KaanHoca.csproj.SuggestedBindingRedirects.cache
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\ödev2KaanHoca\obj\Debug\ödev2KaanHoca.csproj.CoreCompileInputs.cache
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\ödev2KaanHoca\obj\Debug\ödev2KaanHoca.exe
+C:\Users\ÖZCAN\Desktop\deneme klasörü\ödev2KaanHoca\ödev2KaanHoca\obj\Debug\ödev2KaanHoca.pdb

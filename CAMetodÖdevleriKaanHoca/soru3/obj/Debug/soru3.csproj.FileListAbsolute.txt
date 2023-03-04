@@ -1,0 +1,8 @@
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\soru3\bin\Debug\soru3.exe.config
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\soru3\bin\Debug\soru3.exe
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\soru3\bin\Debug\soru3.pdb
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\soru3\obj\Debug\soru3.csproj.AssemblyReference.cache
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\soru3\obj\Debug\soru3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\soru3\obj\Debug\soru3.csproj.CoreCompileInputs.cache
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\soru3\obj\Debug\soru3.exe
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\soru3\obj\Debug\soru3.pdb

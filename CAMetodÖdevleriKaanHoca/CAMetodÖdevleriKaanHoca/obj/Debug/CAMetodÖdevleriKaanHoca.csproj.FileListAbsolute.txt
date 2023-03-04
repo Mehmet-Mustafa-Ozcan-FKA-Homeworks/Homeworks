@@ -1,0 +1,8 @@
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\CAMetodÖdevleriKaanHoca\bin\Debug\CAMetodÖdevleriKaanHoca.exe.config
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\CAMetodÖdevleriKaanHoca\bin\Debug\CAMetodÖdevleriKaanHoca.exe
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\CAMetodÖdevleriKaanHoca\bin\Debug\CAMetodÖdevleriKaanHoca.pdb
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\CAMetodÖdevleriKaanHoca\obj\Debug\CAMetodÖdevleriKaanHoca.csproj.AssemblyReference.cache
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\CAMetodÖdevleriKaanHoca\obj\Debug\CAMetodÖdevleriKaanHoca.csproj.SuggestedBindingRedirects.cache
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\CAMetodÖdevleriKaanHoca\obj\Debug\CAMetodÖdevleriKaanHoca.csproj.CoreCompileInputs.cache
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\CAMetodÖdevleriKaanHoca\obj\Debug\CAMetodÖdevleriKaanHoca.exe
+C:\Users\ÖZCAN\Desktop\deneme klasörü\CAMetodÖdevleriKaanHoca\CAMetodÖdevleriKaanHoca\obj\Debug\CAMetodÖdevleriKaanHoca.pdb
